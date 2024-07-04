@@ -14,7 +14,7 @@
   - if it contains a piece, capture is allowed.
 
 ### Next step?
-  - Show Legal moves.
+  - Show Legal moves. Done.
   - Add other pieces to the board.
 Afterwards, I need to implement how other pieces move.
 

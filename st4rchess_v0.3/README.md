@@ -34,8 +34,8 @@ Let's break it down.
 	- Here I'm showing the available places each piece can move to when it is selected.
 
 - ### What's next?
-	- Show Player's turn.
-	- Define Rook class.
+	- Show Player Class.
+	- Define Rook Class.
 
 Thank you for read me. :)
 

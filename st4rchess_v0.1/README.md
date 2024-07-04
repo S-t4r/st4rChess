@@ -50,8 +50,8 @@
   The next method is PawnMove(), first I'm checking squares in front of the Piece, then I check to see if it's the first move, if it is the Pawn has the ability of move 2 squares. The default legal move is one square forward.
   
 ### What's next?
-  1. Fix the logical bug on squares in Class Board.
-  2. Define Capture() method.
+  1. Fix the logical bug on squares in Class Board. Done.
+  2. Define Capture() method. Done.
   After, I'll Create the sub classes of Piece one by one.
 
 Thank you for reading me.
