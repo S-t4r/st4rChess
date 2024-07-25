@@ -5,7 +5,7 @@ import { Knight } from "./pieces.js";
 import { Bishop } from "./pieces.js";
 import { Queen } from "./pieces.js";
 import { King } from "./pieces.js";
-import { Player } from "../st4rChess/st4rchess_v0.5/players.js"
+import { Player } from "./players.js"
 
 class Board {
     constructor() {
