@@ -14,7 +14,7 @@ so far I have definition for 3 methods,
 - Draw
 - isLegalMove
 - calculatePotentialPositions
-The only fully defined method is Draw. the last two need to be defined. First I have to decide what are the legal moves for a Rook. it can go vertically and horizontally utill it reaches a piece.
+The only fully defined method is Draw. the last two need to be defined. First I have to decide what are the legal moves for a Rook. it can go vertically and horizontally until it reaches a piece.
 that piece is rather for capturing or it's the same color as ours.
 
         // First move

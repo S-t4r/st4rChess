@@ -131,8 +131,8 @@ The following changes are to be made:
 I learned so much from this version, for instance I must finish a project in a fixed time for if I don't I'll forget and I have to figure somethings out all over again.
 
 ### What does version 0.8 bring?
-- [ ] En-peasant.
-- [ ] Check mate.
+- [x] En-peasant.
+- [x] Check mate.
 
 I have to take it step by step otherwise it will get overwhelming.
 Player class needs more definition, like I need to show what pieces have been captured inside of player div.
