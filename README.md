@@ -1,5 +1,8 @@
 # St4rChess
+- A JavaScript Object for a standard Chess Board.
+
 #### Video Demo:  https://youtu.be/caHaj2po0mM?feature=shared
+
 ## Introduction
 - Hello, I'm Matin. I'm a 24 years old boy who David changed his life for good. I kind of understand how stupid I am comparing to you, but one thing that I have learned from CS50 is that I can learn and grow, I have the faculty to become as smart as you guys. without further ado allow me to present my project.
 ## St4rChess Project
